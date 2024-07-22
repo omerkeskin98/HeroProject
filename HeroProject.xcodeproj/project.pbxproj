@@ -7,20 +7,36 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		17056A432C4E39C3001D5392 /* SnapKit in Frameworks */ = {isa = PBXBuildFile; productRef = 17056A422C4E39C3001D5392 /* SnapKit */; };
+		17056A472C4E3FB8001D5392 /* FirstVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17056A462C4E3FB8001D5392 /* FirstVC.swift */; };
+		17056A492C4E4736001D5392 /* SecondVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17056A482C4E4736001D5392 /* SecondVC.swift */; };
+		17056A4B2C4E49E4001D5392 /* ThirdVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17056A4A2C4E49E4001D5392 /* ThirdVC.swift */; };
+		17056A4D2C4E4BDE001D5392 /* FourthVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17056A4C2C4E4BDE001D5392 /* FourthVC.swift */; };
+		17056A4F2C4E4D2D001D5392 /* FifthVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17056A4E2C4E4D2D001D5392 /* FifthVC.swift */; };
+		17056A512C4E4D37001D5392 /* SixthVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17056A502C4E4D37001D5392 /* SixthVC.swift */; };
+		17056A532C4E4D43001D5392 /* SeventhVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17056A522C4E4D43001D5392 /* SeventhVC.swift */; };
+		17056A552C4E4E1E001D5392 /* FinalVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17056A542C4E4E1E001D5392 /* FinalVC.swift */; };
 		17FD49AB2C49300900E48F95 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17FD49AA2C49300900E48F95 /* AppDelegate.swift */; };
 		17FD49AD2C49300900E48F95 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17FD49AC2C49300900E48F95 /* SceneDelegate.swift */; };
 		17FD49AF2C49300900E48F95 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17FD49AE2C49300900E48F95 /* ViewController.swift */; };
-		17FD49B22C49300900E48F95 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 17FD49B12C49300900E48F95 /* Base */; };
 		17FD49B42C49300A00E48F95 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 17FD49B32C49300A00E48F95 /* Assets.xcassets */; };
 		17FD49B72C49300A00E48F95 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 17FD49B62C49300A00E48F95 /* Base */; };
+		17FD49C02C49307100E48F95 /* Hero in Frameworks */ = {isa = PBXBuildFile; productRef = 17FD49BF2C49307100E48F95 /* Hero */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		17056A462C4E3FB8001D5392 /* FirstVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstVC.swift; sourceTree = "<group>"; };
+		17056A482C4E4736001D5392 /* SecondVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondVC.swift; sourceTree = "<group>"; };
+		17056A4A2C4E49E4001D5392 /* ThirdVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdVC.swift; sourceTree = "<group>"; };
+		17056A4C2C4E4BDE001D5392 /* FourthVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourthVC.swift; sourceTree = "<group>"; };
+		17056A4E2C4E4D2D001D5392 /* FifthVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FifthVC.swift; sourceTree = "<group>"; };
+		17056A502C4E4D37001D5392 /* SixthVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SixthVC.swift; sourceTree = "<group>"; };
+		17056A522C4E4D43001D5392 /* SeventhVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeventhVC.swift; sourceTree = "<group>"; };
+		17056A542C4E4E1E001D5392 /* FinalVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinalVC.swift; sourceTree = "<group>"; };
 		17FD49A72C49300900E48F95 /* HeroProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HeroProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		17FD49AA2C49300900E48F95 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		17FD49AC2C49300900E48F95 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		17FD49AE2C49300900E48F95 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		17FD49B12C49300900E48F95 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		17FD49B32C49300A00E48F95 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		17FD49B62C49300A00E48F95 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		17FD49B82C49300A00E48F95 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -31,6 +47,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				17FD49C02C49307100E48F95 /* Hero in Frameworks */,
+				17056A432C4E39C3001D5392 /* SnapKit in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -59,7 +77,14 @@
 				17FD49AA2C49300900E48F95 /* AppDelegate.swift */,
 				17FD49AC2C49300900E48F95 /* SceneDelegate.swift */,
 				17FD49AE2C49300900E48F95 /* ViewController.swift */,
-				17FD49B02C49300900E48F95 /* Main.storyboard */,
+				17056A462C4E3FB8001D5392 /* FirstVC.swift */,
+				17056A482C4E4736001D5392 /* SecondVC.swift */,
+				17056A4A2C4E49E4001D5392 /* ThirdVC.swift */,
+				17056A4C2C4E4BDE001D5392 /* FourthVC.swift */,
+				17056A4E2C4E4D2D001D5392 /* FifthVC.swift */,
+				17056A502C4E4D37001D5392 /* SixthVC.swift */,
+				17056A522C4E4D43001D5392 /* SeventhVC.swift */,
+				17056A542C4E4E1E001D5392 /* FinalVC.swift */,
 				17FD49B32C49300A00E48F95 /* Assets.xcassets */,
 				17FD49B52C49300A00E48F95 /* LaunchScreen.storyboard */,
 				17FD49B82C49300A00E48F95 /* Info.plist */,
@@ -83,6 +108,10 @@
 			dependencies = (
 			);
 			name = HeroProject;
+			packageProductDependencies = (
+				17FD49BF2C49307100E48F95 /* Hero */,
+				17056A422C4E39C3001D5392 /* SnapKit */,
+			);
 			productName = HeroProject;
 			productReference = 17FD49A72C49300900E48F95 /* HeroProject.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +140,10 @@
 				Base,
 			);
 			mainGroup = 17FD499E2C49300900E48F95;
+			packageReferences = (
+				17FD49BE2C49307100E48F95 /* XCRemoteSwiftPackageReference "Hero" */,
+				17056A412C4E39C3001D5392 /* XCRemoteSwiftPackageReference "SnapKit" */,
+			);
 			productRefGroup = 17FD49A82C49300900E48F95 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -127,7 +160,6 @@
 			files = (
 				17FD49B42C49300A00E48F95 /* Assets.xcassets in Resources */,
 				17FD49B72C49300A00E48F95 /* Base in Resources */,
-				17FD49B22C49300900E48F95 /* Base in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,23 +170,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				17056A4B2C4E49E4001D5392 /* ThirdVC.swift in Sources */,
 				17FD49AF2C49300900E48F95 /* ViewController.swift in Sources */,
+				17056A4F2C4E4D2D001D5392 /* FifthVC.swift in Sources */,
+				17056A492C4E4736001D5392 /* SecondVC.swift in Sources */,
+				17056A532C4E4D43001D5392 /* SeventhVC.swift in Sources */,
+				17056A472C4E3FB8001D5392 /* FirstVC.swift in Sources */,
 				17FD49AB2C49300900E48F95 /* AppDelegate.swift in Sources */,
+				17056A4D2C4E4BDE001D5392 /* FourthVC.swift in Sources */,
+				17056A512C4E4D37001D5392 /* SixthVC.swift in Sources */,
 				17FD49AD2C49300900E48F95 /* SceneDelegate.swift in Sources */,
+				17056A552C4E4E1E001D5392 /* FinalVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		17FD49B02C49300900E48F95 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				17FD49B12C49300900E48F95 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		17FD49B52C49300A00E48F95 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -297,7 +329,6 @@
 				INFOPLIST_FILE = HeroProject/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -325,7 +356,6 @@
 				INFOPLIST_FILE = HeroProject/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -363,6 +393,38 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		17056A412C4E39C3001D5392 /* XCRemoteSwiftPackageReference "SnapKit" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/SnapKit/SnapKit.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.7.1;
+			};
+		};
+		17FD49BE2C49307100E48F95 /* XCRemoteSwiftPackageReference "Hero" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/HeroTransitions/Hero.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.6.3;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		17056A422C4E39C3001D5392 /* SnapKit */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 17056A412C4E39C3001D5392 /* XCRemoteSwiftPackageReference "SnapKit" */;
+			productName = SnapKit;
+		};
+		17FD49BF2C49307100E48F95 /* Hero */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 17FD49BE2C49307100E48F95 /* XCRemoteSwiftPackageReference "Hero" */;
+			productName = Hero;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 17FD499F2C49300900E48F95 /* Project object */;
 }
